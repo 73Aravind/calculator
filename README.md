@@ -1,2 +1,2 @@
 # calculator
-App development
+developing a calculator appo using flutter
